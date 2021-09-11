@@ -67,3 +67,5 @@ Figure 5.19 shows the impact of the L2 regularization penalty. As you can see, t
 ##### Figure 5.19. Effect of L2 weight regularization on validation loss
 
 ![original model vs l2 regularized model imdb](https://drek4537l1klr.cloudfront.net/chollet2/v-7/Figures/original_model_vs_l2_regularized_model_imdb.png)
+
+[1]: http://www.baidu.com/
