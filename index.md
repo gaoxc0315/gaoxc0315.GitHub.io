@@ -68,4 +68,4 @@ Figure 5.19 shows the impact of the L2 regularization penalty. As you can see, t
 
 ![original model vs l2 regularized model imdb](https://drek4537l1klr.cloudfront.net/chollet2/v-7/Figures/original_model_vs_l2_regularized_model_imdb.png)
 
-[1]: http://www.baidu.com/
+[1]: https://github.com/gaoxc0315/gaoxc0315.GitHub.io/blob/main/index_two.md
